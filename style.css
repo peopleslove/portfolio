@@ -145,7 +145,7 @@ p {
 #aboutme .left_content {
     float: left;
     overflow: hidden;
-    margin-left:15%;
+    margin-right: 15%;
 }
 #aboutme .description .first_word{
     padding: 10px;
